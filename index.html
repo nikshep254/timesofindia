@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English ePaper Archive — Daily Downloads</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <div class="brand">
+          <span class="brand-icon">📰</span>
+          <div>
+            <h1 class="brand-title">English ePaper Archive</h1>
+            <p class="brand-sub">Daily Download Hub</p>
+          </div>
+        </div>
+        <div class="header-status">
+          <span class="status-dot"></span>
+          <span class="status-text" id="statusText">Loading papers…</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+
+      <section class="hero">
+        <div class="hero-badge" id="heroBadge">Daily Editions</div>
+        <h2 class="hero-title" id="heroTitle">English Newspapers</h2>
+        <p class="hero-desc" id="heroDesc">Fresh ePaper PDFs scraped automatically every morning. Click any paper to download today's edition.</p>
+      </section>
+
+      <section class="papers">
+        <div class="section-header">
+          <h3 class="section-title">All English Papers</h3>
+          <span class="section-count" id="paperCount"></span>
+        </div>
+        <div class="paper-grid" id="paperGrid">
+          <div class="loading">Loading papers…</div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Data sourced from <a href="https://dailyepaper.in" target="_blank" rel="noopener">dailyepaper.in</a> &middot; Updated daily via GitHub Actions</p>
+      <p class="footer-updated" id="footerUpdated"></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
