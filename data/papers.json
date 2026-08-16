@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-15T08:42:02.658255+05:30",
+  "updated_at": "2026-08-16T08:56:14.564843+05:30",
   "papers": [
     {
       "name": "The Hindu",
       "slug": "the-hindu",
       "url": "https://dailyepaper.in/the-hindu-epaper-english-tamil-feb-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -19,8 +19,8 @@
       "slug": "hindu-analysis",
       "url": "https://dailyepaper.in/hindu-analysis-notes-in-pdf-2025/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -573,8 +573,8 @@
       "slug": "times-of-india",
       "url": "https://dailyepaper.in/times-of-india-epaper-pdf-free-download-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -929,6 +929,12 @@
           "drive_id": "1EZcnAS1wNLfVBswOOI7Z_CnVKoOLt-Yz"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/17RC6pbYxZYWYLL8mXQ2wvScpP5TQlWfl/view?usp=sharing",
+          "drive_id": "17RC6pbYxZYWYLL8mXQ2wvScpP5TQlWfl"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1Yh3Ltg-xPG2JyogL_jtKsqgtNCk4YJCH/view?usp=sharing",
@@ -1265,8 +1271,8 @@
       "slug": "economic-times",
       "url": "https://dailyepaper.in/economic-times-newspaper-2025/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -1621,6 +1627,12 @@
           "drive_id": "1W0_YA5botb0kCB7RmEJA8r8nYvjJONxI"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1C6z-DJ15PaGaFDE3cz0pS1xufa4npd8y/view?usp=sharing",
+          "drive_id": "1C6z-DJ15PaGaFDE3cz0pS1xufa4npd8y"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1i_tRy4nnUix20u9LsQTehDqr5Kw2NYQ3/view?usp=sharing",
@@ -1957,8 +1969,8 @@
       "slug": "financial-express",
       "url": "https://dailyepaper.in/the-free-press-journal-epaper-download/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -2995,6 +3007,24 @@
           "date_display": "16 Apr 2026",
           "drive_url": "https://drive.google.com/file/d/19W9bNm0bcmGBw-OybTpBsRnirty0cOHR/view?usp=sharing",
           "drive_id": "19W9bNm0bcmGBw-OybTpBsRnirty0cOHR"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/16pPrS8ABegeJuxHXqTdQrCobBjvHxcf_/view?usp=sharing",
+          "drive_id": "16pPrS8ABegeJuxHXqTdQrCobBjvHxcf_"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/11e6CMNHPy3aI4qVD6bJmCpmQym3uutPO/view?usp=sharing",
+          "drive_id": "11e6CMNHPy3aI4qVD6bJmCpmQym3uutPO"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1GNI6Yccv0N2yK1Y9B8n7GRn-qoo8uecc/view?usp=sharing",
+          "drive_id": "1GNI6Yccv0N2yK1Y9B8n7GRn-qoo8uecc"
         },
         {
           "date": "15-07-2026",
@@ -3987,8 +4017,8 @@
       "slug": "the-telegraph",
       "url": "https://dailyepaper.in/telegraph-newspaper/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -4245,6 +4275,12 @@
           "date_display": "16 Apr 2026",
           "drive_url": "https://drive.google.com/file/d/1ZpNPVvhZH0dEZ6-PUUR4ST_Tn8wWgXhT/view?usp=sharing",
           "drive_id": "1ZpNPVvhZH0dEZ6-PUUR4ST_Tn8wWgXhT"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1vjvKhNRaIZyZNvILNyOAtBXLhLxEEM6b/view?usp=sharing",
+          "drive_id": "1vjvKhNRaIZyZNvILNyOAtBXLhLxEEM6b"
         },
         {
           "date": "15-07-2026",
@@ -4547,8 +4583,8 @@
       "slug": "deccan-chronicle",
       "url": "https://dailyepaper.in/deccan-chronicle-epaper/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -4903,6 +4939,12 @@
           "drive_id": "1fu07dvB83YIqk1jrmVaZhRdnYQZztKfN"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1C2sJhKwWjhejUdhTWuW69WavyUHXpfTz/view?usp=sharing",
+          "drive_id": "1C2sJhKwWjhejUdhTWuW69WavyUHXpfTz"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1p-xZma07KZWt-DfC2jzd0imSFNDjwRlX/view?usp=sharing",
@@ -5239,8 +5281,8 @@
       "slug": "the-statesman",
       "url": "https://dailyepaper.in/statesman-newspaper-today/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -5583,6 +5625,12 @@
           "drive_id": "1mVpO9Yjy4AcG-JFsDpiQ_lf4uPqjRVW1"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1zDpG6INB0EDDuNJN4l3X7FTRhB6HC4m2/view?usp=sharing",
+          "drive_id": "1zDpG6INB0EDDuNJN4l3X7FTRhB6HC4m2"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1GpEzc8nJwNs-1EbMztsWC4wmJg0d5Ns_/view?usp=sharing",
@@ -5913,8 +5961,8 @@
       "slug": "the-tribune",
       "url": "https://dailyepaper.in/the-tribune-epaper/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -6219,6 +6267,12 @@
           "date_display": "16 Apr 2026",
           "drive_url": "https://drive.google.com/file/d/1-jmd7iOU4cWmVjie_JaqK6NNM2QxrGD1/view?usp=sharing",
           "drive_id": "1-jmd7iOU4cWmVjie_JaqK6NNM2QxrGD1"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1Anvoc-E8GczoeG7fiWQsPRcmDB79ESqq/view?usp=sharing",
+          "drive_id": "1Anvoc-E8GczoeG7fiWQsPRcmDB79ESqq"
         },
         {
           "date": "15-07-2026",
@@ -6545,8 +6599,8 @@
       "slug": "the-asian-age",
       "url": "https://dailyepaper.in/the-asian-age-epaper-2025/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -6883,6 +6937,12 @@
           "drive_id": "1ggT8hmilc-AI0hliWFdSIYNCWVMg-ebF"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1Y4omv_yRHixntREnRBC1yeNdYj_DH40k/view?usp=sharing",
+          "drive_id": "1Y4omv_yRHixntREnRBC1yeNdYj_DH40k"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1BiWQ1ayoaNSZ_fjrRAUyCibn_JMd5nvs/view?usp=sharing",
@@ -7206,1301 +7266,23 @@
       "name": "The Pioneer",
       "slug": "the-pioneer",
       "url": "https://dailyepaper.in/pioneer-epaper-pdf-2025/",
+      "error": "403 Client Error: Forbidden for url: https://dailyepaper.in/pioneer-epaper-pdf-2025/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
-        "note": "Not available — may be Sunday or holiday"
+        "note": "Page fetch failed: 403 Client Error: Forbidden for url: https://dailyepaper.in/pioneer-epaper-pdf-2025/"
       },
-      "archive": [
-        {
-          "date": "31-07-2026",
-          "date_display": "31 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1enz96yy2JdTM_gfM_Jdh40DVlozSxani/view?usp=sharing",
-          "drive_id": "1enz96yy2JdTM_gfM_Jdh40DVlozSxani"
-        },
-        {
-          "date": "31-07-2026",
-          "date_display": "31 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1IZDEDAcIxMvpoCBZCHCyOri2DIlMNCCx/view?usp=sharing",
-          "drive_id": "1IZDEDAcIxMvpoCBZCHCyOri2DIlMNCCx"
-        },
-        {
-          "date": "31-05-2026",
-          "date_display": "31 May 2026",
-          "drive_url": "https://drive.google.com/file/d/11axoJn4Z98x4jXiKKGwlqQZ03lmoUVJF/view?usp=sharing",
-          "drive_id": "11axoJn4Z98x4jXiKKGwlqQZ03lmoUVJF"
-        },
-        {
-          "date": "31-05-2026",
-          "date_display": "31 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1w_Elvr0u-QljyXYNhgMNdJwJoAm7Qkg4/view?usp=sharing",
-          "drive_id": "1w_Elvr0u-QljyXYNhgMNdJwJoAm7Qkg4"
-        },
-        {
-          "date": "30-06-2026",
-          "date_display": "30 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1xCh3EqpTR2GCZdH43q9l5vPYAO0l0DH-/view?usp=sharing",
-          "drive_id": "1xCh3EqpTR2GCZdH43q9l5vPYAO0l0DH-"
-        },
-        {
-          "date": "30-06-2026",
-          "date_display": "30 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1KBfw8EUIAdBeUv9WQOXzH9NvnzkAeZgb/view?usp=sharing",
-          "drive_id": "1KBfw8EUIAdBeUv9WQOXzH9NvnzkAeZgb"
-        },
-        {
-          "date": "30-05-2026",
-          "date_display": "30 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1vRx9oQ4BHR6RLJFIB3pTzuno94-3jcx9/view?usp=sharing",
-          "drive_id": "1vRx9oQ4BHR6RLJFIB3pTzuno94-3jcx9"
-        },
-        {
-          "date": "30-05-2026",
-          "date_display": "30 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1on-NX8v957Mx7xPMXbE5navsP3eou8oP/view?usp=sharing",
-          "drive_id": "1on-NX8v957Mx7xPMXbE5navsP3eou8oP"
-        },
-        {
-          "date": "30-04-2026",
-          "date_display": "30 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1MI1M5-ziz5gDqyLqsgwdmVTdajOHVrya/view?usp=sharing",
-          "drive_id": "1MI1M5-ziz5gDqyLqsgwdmVTdajOHVrya"
-        },
-        {
-          "date": "30-04-2026",
-          "date_display": "30 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1fIZSZOYXoG6us9h8xSvWDcDjVnj-OAv3/view?usp=sharing",
-          "drive_id": "1fIZSZOYXoG6us9h8xSvWDcDjVnj-OAv3"
-        },
-        {
-          "date": "29-07-2026",
-          "date_display": "29 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/11xErTK7thTO68rNOE1O9bQXV0q_T-2me/view?usp=sharing",
-          "drive_id": "11xErTK7thTO68rNOE1O9bQXV0q_T-2me"
-        },
-        {
-          "date": "29-07-2026",
-          "date_display": "29 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1Z7-IbuoJqDkaeK640rzvHnasOjpLwrCm/view?usp=sharing",
-          "drive_id": "1Z7-IbuoJqDkaeK640rzvHnasOjpLwrCm"
-        },
-        {
-          "date": "29-06-2026",
-          "date_display": "29 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1NDSR8-dWxm5dexpyROJ3kFC_qF75fnYQ/view?usp=sharing",
-          "drive_id": "1NDSR8-dWxm5dexpyROJ3kFC_qF75fnYQ"
-        },
-        {
-          "date": "29-06-2026",
-          "date_display": "29 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/12OtGHtWs0vXdqZ3kvTvdHDJT73cTU4QI/view?usp=sharing",
-          "drive_id": "12OtGHtWs0vXdqZ3kvTvdHDJT73cTU4QI"
-        },
-        {
-          "date": "29-05-2026",
-          "date_display": "29 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1iUNwfNpyijbaPJZopJqtVzxUQ2e-FiVy/view?usp=sharing",
-          "drive_id": "1iUNwfNpyijbaPJZopJqtVzxUQ2e-FiVy"
-        },
-        {
-          "date": "29-05-2026",
-          "date_display": "29 May 2026",
-          "drive_url": "https://drive.google.com/file/d/140JYSlAGRxk-qsX-UQRUZbeKncqkWkH9/view?usp=sharing",
-          "drive_id": "140JYSlAGRxk-qsX-UQRUZbeKncqkWkH9"
-        },
-        {
-          "date": "29-04-2026",
-          "date_display": "29 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1LSNsoRxEfjJiqrsJ_zkVQtWDhQ1jsSb8/view?usp=sharing",
-          "drive_id": "1LSNsoRxEfjJiqrsJ_zkVQtWDhQ1jsSb8"
-        },
-        {
-          "date": "29-04-2026",
-          "date_display": "29 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1rOq8V8aMzdPgVgbDtPahxAXvjcudiYjg/view?usp=sharing",
-          "drive_id": "1rOq8V8aMzdPgVgbDtPahxAXvjcudiYjg"
-        },
-        {
-          "date": "28-05-2026",
-          "date_display": "28 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1YUD9fzDz7wfDG86Exdp0giMYiDerkrSS/view?usp=sharing",
-          "drive_id": "1YUD9fzDz7wfDG86Exdp0giMYiDerkrSS"
-        },
-        {
-          "date": "28-05-2026",
-          "date_display": "28 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1EOlhQ-kelaSPDR6XXnu4wFoHXoRkRe_J/view?usp=sharing",
-          "drive_id": "1EOlhQ-kelaSPDR6XXnu4wFoHXoRkRe_J"
-        },
-        {
-          "date": "28-04-2026",
-          "date_display": "28 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1MU6NOMVa256DY60fOTvKRwm9tRuUGw1W/view?usp=sharing",
-          "drive_id": "1MU6NOMVa256DY60fOTvKRwm9tRuUGw1W"
-        },
-        {
-          "date": "27-07-2026",
-          "date_display": "27 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1hFKEIZzqSXTNr-a6QwqI6SS0_plwDUrb/view?usp=sharing",
-          "drive_id": "1hFKEIZzqSXTNr-a6QwqI6SS0_plwDUrb"
-        },
-        {
-          "date": "27-07-2026",
-          "date_display": "27 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1ZmJoLWDTJZwLLjNJ8q9S3BjfR2t_hMYY/view?usp=sharing",
-          "drive_id": "1ZmJoLWDTJZwLLjNJ8q9S3BjfR2t_hMYY"
-        },
-        {
-          "date": "27-06-2026",
-          "date_display": "27 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1bhn1bm_e2xya-bZpM99TaxU9I2_mMuqA/view?usp=sharing",
-          "drive_id": "1bhn1bm_e2xya-bZpM99TaxU9I2_mMuqA"
-        },
-        {
-          "date": "27-06-2026",
-          "date_display": "27 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1OClYn-LgJtHkwleRzFFrJceI0SAz9hRd/view?usp=sharing",
-          "drive_id": "1OClYn-LgJtHkwleRzFFrJceI0SAz9hRd"
-        },
-        {
-          "date": "27-05-2026",
-          "date_display": "27 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Jr2UHL2eYqsysHwnUj5chMxavOdSEtZR/view?usp=sharing",
-          "drive_id": "1Jr2UHL2eYqsysHwnUj5chMxavOdSEtZR"
-        },
-        {
-          "date": "27-05-2026",
-          "date_display": "27 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1ZztBVny77Gsc79xJtFBq6AugLrCA-BYJ/view?usp=sharing",
-          "drive_id": "1ZztBVny77Gsc79xJtFBq6AugLrCA-BYJ"
-        },
-        {
-          "date": "27-04-2026",
-          "date_display": "27 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1Q5AwScO5AUL-UM9fQtO29KaGQyK9jTQF/view?usp=sharing",
-          "drive_id": "1Q5AwScO5AUL-UM9fQtO29KaGQyK9jTQF"
-        },
-        {
-          "date": "27-04-2026",
-          "date_display": "27 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1GTkmvW94b9hx7z0q7IZ15udhonDvVTMs/view?usp=sharing",
-          "drive_id": "1GTkmvW94b9hx7z0q7IZ15udhonDvVTMs"
-        },
-        {
-          "date": "26-06-2026",
-          "date_display": "26 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1XbXjfwlod4IZenTirYHKsqd_M8tZ-d3t/view?usp=sharing",
-          "drive_id": "1XbXjfwlod4IZenTirYHKsqd_M8tZ-d3t"
-        },
-        {
-          "date": "26-06-2026",
-          "date_display": "26 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1gJ0WRIebA-V-XcZGzKghgTseXPX3RyDv/view?usp=sharing",
-          "drive_id": "1gJ0WRIebA-V-XcZGzKghgTseXPX3RyDv"
-        },
-        {
-          "date": "26-05-2026",
-          "date_display": "26 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Q9ET2YHl-rosTXpcP7Pda5XlSdAfUtUM/view?usp=sharing",
-          "drive_id": "1Q9ET2YHl-rosTXpcP7Pda5XlSdAfUtUM"
-        },
-        {
-          "date": "26-05-2026",
-          "date_display": "26 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1vfRsKB8KP9GB9_ozMsPJFef0afelkNJm/view?usp=sharing",
-          "drive_id": "1vfRsKB8KP9GB9_ozMsPJFef0afelkNJm"
-        },
-        {
-          "date": "26-04-2026",
-          "date_display": "26 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1MJI5kbBaGKYMsWSPRqF_I8K0Tcu34tSI/view?usp=sharing",
-          "drive_id": "1MJI5kbBaGKYMsWSPRqF_I8K0Tcu34tSI"
-        },
-        {
-          "date": "26-04-2026",
-          "date_display": "26 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1Q5ZVosnqeeVhX72mtc4d0VmtFxw5rRV0/view?usp=sharing",
-          "drive_id": "1Q5ZVosnqeeVhX72mtc4d0VmtFxw5rRV0"
-        },
-        {
-          "date": "25-07-2026",
-          "date_display": "25 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1_X_PWpCz6AwK9A-BHQsc7tS7e_4F66AL/view?usp=sharing",
-          "drive_id": "1_X_PWpCz6AwK9A-BHQsc7tS7e_4F66AL"
-        },
-        {
-          "date": "25-07-2026",
-          "date_display": "25 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/15as2BgY5GOxjpadswwDb3V3ufXyFx8-G/view?usp=sharing",
-          "drive_id": "15as2BgY5GOxjpadswwDb3V3ufXyFx8-G"
-        },
-        {
-          "date": "25-06-2026",
-          "date_display": "25 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1pWEEkt_8kVVp6bZem5hF9fXCcXa10fmb/view?usp=sharing",
-          "drive_id": "1pWEEkt_8kVVp6bZem5hF9fXCcXa10fmb"
-        },
-        {
-          "date": "25-06-2026",
-          "date_display": "25 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1VonUz65aNUljLEyF_4Mpu0XLkCZZPlL6/view?usp=sharing",
-          "drive_id": "1VonUz65aNUljLEyF_4Mpu0XLkCZZPlL6"
-        },
-        {
-          "date": "25-05-2026",
-          "date_display": "25 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Tw9gvxcDJWsW3sOQ9HZFnH7fsbHlHo1L/view?usp=sharing",
-          "drive_id": "1Tw9gvxcDJWsW3sOQ9HZFnH7fsbHlHo1L"
-        },
-        {
-          "date": "25-05-2026",
-          "date_display": "25 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Rhz0ofQouBftCSVGrFDwCKSttlr6P58p/view?usp=sharing",
-          "drive_id": "1Rhz0ofQouBftCSVGrFDwCKSttlr6P58p"
-        },
-        {
-          "date": "25-04-2026",
-          "date_display": "25 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/12fja67u_7zzdHPrBsYXbEQVVN1DhjfgC/view?usp=sharing",
-          "drive_id": "12fja67u_7zzdHPrBsYXbEQVVN1DhjfgC"
-        },
-        {
-          "date": "25-04-2026",
-          "date_display": "25 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1DltIA5_aRUarrnOxJq3Fo2Ji4k4mtvZU/view?usp=sharing",
-          "drive_id": "1DltIA5_aRUarrnOxJq3Fo2Ji4k4mtvZU"
-        },
-        {
-          "date": "24-07-2026",
-          "date_display": "24 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1U2rqrYsZZIAw8v7FuwMYYapj91sFnqN4/view?usp=sharing",
-          "drive_id": "1U2rqrYsZZIAw8v7FuwMYYapj91sFnqN4"
-        },
-        {
-          "date": "24-07-2026",
-          "date_display": "24 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1DyFUAgyAhZyI4L8hgsl1p2pd74qcLf6c/view?usp=sharing",
-          "drive_id": "1DyFUAgyAhZyI4L8hgsl1p2pd74qcLf6c"
-        },
-        {
-          "date": "24-06-2026",
-          "date_display": "24 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1Wl7Bfz14Y1b_Kv2IMvT2WADzDH5gX5Kb/view?usp=sharing",
-          "drive_id": "1Wl7Bfz14Y1b_Kv2IMvT2WADzDH5gX5Kb"
-        },
-        {
-          "date": "24-06-2026",
-          "date_display": "24 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/12Rf5Bf3QLoLlGJdPBZ79Ral5htdgfiKV/view?usp=sharing",
-          "drive_id": "12Rf5Bf3QLoLlGJdPBZ79Ral5htdgfiKV"
-        },
-        {
-          "date": "24-05-2026",
-          "date_display": "24 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1eQ63JErbB5vmgCyXEqtGy8Q2Senpph-3/view?usp=sharing",
-          "drive_id": "1eQ63JErbB5vmgCyXEqtGy8Q2Senpph-3"
-        },
-        {
-          "date": "24-05-2026",
-          "date_display": "24 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1y_gx6zBjkusoOO7CrW2U1pXQTV_BzK9A/view?usp=sharing",
-          "drive_id": "1y_gx6zBjkusoOO7CrW2U1pXQTV_BzK9A"
-        },
-        {
-          "date": "24-04-2026",
-          "date_display": "24 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1V29RMMalqrmobqfAElMVO_-a4Fihv_Vr/view?usp=sharing",
-          "drive_id": "1V29RMMalqrmobqfAElMVO_-a4Fihv_Vr"
-        },
-        {
-          "date": "24-04-2026",
-          "date_display": "24 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1N6ay9ntlxCIBNTtvfv_GGxQqe16BX5Is/view?usp=sharing",
-          "drive_id": "1N6ay9ntlxCIBNTtvfv_GGxQqe16BX5Is"
-        },
-        {
-          "date": "23-07-2026",
-          "date_display": "23 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1d4ArfE_Ye7HbcqNuoJDoh4-w8gddQBgS/view?usp=sharing",
-          "drive_id": "1d4ArfE_Ye7HbcqNuoJDoh4-w8gddQBgS"
-        },
-        {
-          "date": "23-07-2026",
-          "date_display": "23 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/10xk4Hsrp7eP6r7U3PhreY5MCvU9zPgFY/view?usp=sharing",
-          "drive_id": "10xk4Hsrp7eP6r7U3PhreY5MCvU9zPgFY"
-        },
-        {
-          "date": "23-06-2026",
-          "date_display": "23 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1P79WQVtplqKjIWQD1UVK2-7G1eI3TVbU/view?usp=sharing",
-          "drive_id": "1P79WQVtplqKjIWQD1UVK2-7G1eI3TVbU"
-        },
-        {
-          "date": "23-06-2026",
-          "date_display": "23 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1zdiRObJkcTjtPXT6cekJcAQ_g7zke3sn/view?usp=sharing",
-          "drive_id": "1zdiRObJkcTjtPXT6cekJcAQ_g7zke3sn"
-        },
-        {
-          "date": "23-05-2026",
-          "date_display": "23 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1-kxv5Z6M2BFE0GgcWjWh3w7iolhZi2L9/view?usp=sharing",
-          "drive_id": "1-kxv5Z6M2BFE0GgcWjWh3w7iolhZi2L9"
-        },
-        {
-          "date": "23-05-2026",
-          "date_display": "23 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1VQn2OUmFRFpe3dhj20bM4bk8XJ2HRvlr/view?usp=sharing",
-          "drive_id": "1VQn2OUmFRFpe3dhj20bM4bk8XJ2HRvlr"
-        },
-        {
-          "date": "23-04-2026",
-          "date_display": "23 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1t1dT85ugM42yp99bD0uB5DAsLgFt7zlA/view?usp=sharing",
-          "drive_id": "1t1dT85ugM42yp99bD0uB5DAsLgFt7zlA"
-        },
-        {
-          "date": "23-04-2026",
-          "date_display": "23 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1ZYuYE_th2cKrdbcKD_dkYAFTl31JVUdv/view?usp=sharing",
-          "drive_id": "1ZYuYE_th2cKrdbcKD_dkYAFTl31JVUdv"
-        },
-        {
-          "date": "22-07-2026",
-          "date_display": "22 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1N8dT_ZCX03pNzTF7Wy2utfgDS6ORqMDE/view?usp=sharing",
-          "drive_id": "1N8dT_ZCX03pNzTF7Wy2utfgDS6ORqMDE"
-        },
-        {
-          "date": "22-07-2026",
-          "date_display": "22 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1wwItAsqhUdW934zX87ruZrUYL6OSqOGc/view?usp=sharing",
-          "drive_id": "1wwItAsqhUdW934zX87ruZrUYL6OSqOGc"
-        },
-        {
-          "date": "22-06-2026",
-          "date_display": "22 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1zdiRObJkcTjtPXT6cekJcAQ_g7zke3sn/view?usp=sharing",
-          "drive_id": "1zdiRObJkcTjtPXT6cekJcAQ_g7zke3sn"
-        },
-        {
-          "date": "22-05-2026",
-          "date_display": "22 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1_a6PplgulWzmssm-9ORXB9hMaQHVCD_V/view?usp=sharing",
-          "drive_id": "1_a6PplgulWzmssm-9ORXB9hMaQHVCD_V"
-        },
-        {
-          "date": "22-05-2026",
-          "date_display": "22 May 2026",
-          "drive_url": "https://drive.google.com/file/d/11IRAnEhXvIBjAER_c5ZcFe2dScvlCztv/view?usp=sharing",
-          "drive_id": "11IRAnEhXvIBjAER_c5ZcFe2dScvlCztv"
-        },
-        {
-          "date": "22-04-2026",
-          "date_display": "22 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1crFMAb3Ql7ojBI6SjOVh0SLNzhvMFesm/view?usp=sharing",
-          "drive_id": "1crFMAb3Ql7ojBI6SjOVh0SLNzhvMFesm"
-        },
-        {
-          "date": "22-04-2026",
-          "date_display": "22 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/11fO7f2O2pWhhfNoBwytWQRSW5NusDc7T/view?usp=sharing",
-          "drive_id": "11fO7f2O2pWhhfNoBwytWQRSW5NusDc7T"
-        },
-        {
-          "date": "21-07-2026",
-          "date_display": "21 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1-w0_1aDdciSwMKuoZtBuCyU3jWN1tCGz/view?usp=sharing",
-          "drive_id": "1-w0_1aDdciSwMKuoZtBuCyU3jWN1tCGz"
-        },
-        {
-          "date": "21-07-2026",
-          "date_display": "21 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1XmDygzA3fm6ZNy-BCDlAZlqThq3Cc9Hs/view?usp=sharing",
-          "drive_id": "1XmDygzA3fm6ZNy-BCDlAZlqThq3Cc9Hs"
-        },
-        {
-          "date": "21-06-2026",
-          "date_display": "21 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/12To63UR43WfN73-hPmTq3nfNG5aLmkzF/view?usp=sharing",
-          "drive_id": "12To63UR43WfN73-hPmTq3nfNG5aLmkzF"
-        },
-        {
-          "date": "21-06-2026",
-          "date_display": "21 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1d2HP4z2y46QGAwWYz6jduyXmFZ3ONwWT/view?usp=sharing",
-          "drive_id": "1d2HP4z2y46QGAwWYz6jduyXmFZ3ONwWT"
-        },
-        {
-          "date": "21-05-2026",
-          "date_display": "21 May 2026",
-          "drive_url": "https://drive.google.com/file/d/16yEDLcsv3BbXLdRm7HfBPJ1XNv8x-wkS/view?usp=sharing",
-          "drive_id": "16yEDLcsv3BbXLdRm7HfBPJ1XNv8x-wkS"
-        },
-        {
-          "date": "21-05-2026",
-          "date_display": "21 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1b4sBb5Xwm0oSRvYrvfhtGAfgQ9XMNBAF/view?usp=sharing",
-          "drive_id": "1b4sBb5Xwm0oSRvYrvfhtGAfgQ9XMNBAF"
-        },
-        {
-          "date": "21-04-2026",
-          "date_display": "21 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/14KMV4FODQCQ55Q9JHNRwwuSw4W7FpLF_/view?usp=sharing",
-          "drive_id": "14KMV4FODQCQ55Q9JHNRwwuSw4W7FpLF_"
-        },
-        {
-          "date": "21-04-2026",
-          "date_display": "21 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1-xU4GxXJYjyPn1g4Ij9n1liLSTsD2Ijk/view?usp=sharing",
-          "drive_id": "1-xU4GxXJYjyPn1g4Ij9n1liLSTsD2Ijk"
-        },
-        {
-          "date": "20-07-2026",
-          "date_display": "20 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1M99hP4djYGbjNDiKX8VuZrzZWsRqov9F/view?usp=sharing",
-          "drive_id": "1M99hP4djYGbjNDiKX8VuZrzZWsRqov9F"
-        },
-        {
-          "date": "20-06-2026",
-          "date_display": "20 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1jVvGT3BAFaWK0Ug6O_-lEEy7_KpULPlv/view?usp=sharing",
-          "drive_id": "1jVvGT3BAFaWK0Ug6O_-lEEy7_KpULPlv"
-        },
-        {
-          "date": "20-06-2026",
-          "date_display": "20 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1gMwptvU3LaGa7c8U75EeXn0vQMT6tZjJ/view?usp=sharing",
-          "drive_id": "1gMwptvU3LaGa7c8U75EeXn0vQMT6tZjJ"
-        },
-        {
-          "date": "20-05-2026",
-          "date_display": "20 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Ew7jqfWI0vSBAqmK6jLsJAHcDFjyT60I/view?usp=sharing",
-          "drive_id": "1Ew7jqfWI0vSBAqmK6jLsJAHcDFjyT60I"
-        },
-        {
-          "date": "20-04-2026",
-          "date_display": "20 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/105t1UANaRkAeL8p1RrGvxMHd-PcSjUZj/view?usp=sharing",
-          "drive_id": "105t1UANaRkAeL8p1RrGvxMHd-PcSjUZj"
-        },
-        {
-          "date": "20-04-2026",
-          "date_display": "20 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/19X1CVysrBLHFn-3Ze_ET5KylJ6kJKUno/view?usp=sharing",
-          "drive_id": "19X1CVysrBLHFn-3Ze_ET5KylJ6kJKUno"
-        },
-        {
-          "date": "19-06-2026",
-          "date_display": "19 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1siBthQv1az_px85Q_gZ-HFLeilTdcNjs/view?usp=sharing",
-          "drive_id": "1siBthQv1az_px85Q_gZ-HFLeilTdcNjs"
-        },
-        {
-          "date": "19-05-2026",
-          "date_display": "19 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Bhj-i8pV8EtMEnyPQK2l-szlgNVv0FCo/view?usp=sharing",
-          "drive_id": "1Bhj-i8pV8EtMEnyPQK2l-szlgNVv0FCo"
-        },
-        {
-          "date": "19-05-2026",
-          "date_display": "19 May 2026",
-          "drive_url": "https://drive.google.com/file/d/18r0DhIRwZNxYy0BGOPzMnf2t3Bw1x-GU/view?usp=sharing",
-          "drive_id": "18r0DhIRwZNxYy0BGOPzMnf2t3Bw1x-GU"
-        },
-        {
-          "date": "19-04-2026",
-          "date_display": "19 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/12XlrmjDgczadIyf-SEsJ2C2WMPg70Rqt/view?usp=sharing",
-          "drive_id": "12XlrmjDgczadIyf-SEsJ2C2WMPg70Rqt"
-        },
-        {
-          "date": "19-04-2026",
-          "date_display": "19 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1lkQg_Ia6Hd-PeKoIwxrSvFepqWOAqS8u/view?usp=sharing",
-          "drive_id": "1lkQg_Ia6Hd-PeKoIwxrSvFepqWOAqS8u"
-        },
-        {
-          "date": "18-07-2026",
-          "date_display": "18 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1wEAn_zIoxOlK3HvPxcW5KvKXiHQh2yxm/view?usp=sharing",
-          "drive_id": "1wEAn_zIoxOlK3HvPxcW5KvKXiHQh2yxm"
-        },
-        {
-          "date": "18-06-2026",
-          "date_display": "18 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1dzid72tIEI5IM959Y_vFTIOD6KPJXNOY/view?usp=sharing",
-          "drive_id": "1dzid72tIEI5IM959Y_vFTIOD6KPJXNOY"
-        },
-        {
-          "date": "18-06-2026",
-          "date_display": "18 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1bjRZhJ7Zsdx-ZlaHYpeOpm4E8uM62AI5/view?usp=sharing",
-          "drive_id": "1bjRZhJ7Zsdx-ZlaHYpeOpm4E8uM62AI5"
-        },
-        {
-          "date": "18-05-2026",
-          "date_display": "18 May 2026",
-          "drive_url": "https://drive.google.com/file/d/12kc-sc_xCnySLpn7Y49uzGSAJkVIVwc7/view?usp=sharing",
-          "drive_id": "12kc-sc_xCnySLpn7Y49uzGSAJkVIVwc7"
-        },
-        {
-          "date": "18-05-2026",
-          "date_display": "18 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1FTs6C7d1fsSgwpnE573RI4hEAFZZCvXr/view?usp=sharing",
-          "drive_id": "1FTs6C7d1fsSgwpnE573RI4hEAFZZCvXr"
-        },
-        {
-          "date": "18-04-2026",
-          "date_display": "18 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1KDKGNNg7tEHsgZ4vgnS-p-DvL8bCBpm-/view?usp=sharing",
-          "drive_id": "1KDKGNNg7tEHsgZ4vgnS-p-DvL8bCBpm-"
-        },
-        {
-          "date": "18-04-2026",
-          "date_display": "18 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1mp2cvUOhC5IkYHZZWN7hjalw7Cnv8O7x/view?usp=sharing",
-          "drive_id": "1mp2cvUOhC5IkYHZZWN7hjalw7Cnv8O7x"
-        },
-        {
-          "date": "17-07-2026",
-          "date_display": "17 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1awI-IXj-AEhnOVlqRin8o7mbLaUY9znC/view?usp=sharing",
-          "drive_id": "1awI-IXj-AEhnOVlqRin8o7mbLaUY9znC"
-        },
-        {
-          "date": "17-07-2026",
-          "date_display": "17 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1ZI8c6HgaNZ5jGqCsZJ6ouUTpx36RGBQM/view?usp=sharing",
-          "drive_id": "1ZI8c6HgaNZ5jGqCsZJ6ouUTpx36RGBQM"
-        },
-        {
-          "date": "17-06-2026",
-          "date_display": "17 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1tLbsvdL-KTpm_1q02Z71ceiwSVJG1VfM/view?usp=sharing",
-          "drive_id": "1tLbsvdL-KTpm_1q02Z71ceiwSVJG1VfM"
-        },
-        {
-          "date": "17-06-2026",
-          "date_display": "17 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1d5j6dBMYasRHf1GtqnoJGtOCoPkkEL1z/view?usp=sharing",
-          "drive_id": "1d5j6dBMYasRHf1GtqnoJGtOCoPkkEL1z"
-        },
-        {
-          "date": "17-05-2026",
-          "date_display": "17 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1jEh3ivsm_wqC0i5OaVv3NOA2w_gSdeRl/view?usp=sharing",
-          "drive_id": "1jEh3ivsm_wqC0i5OaVv3NOA2w_gSdeRl"
-        },
-        {
-          "date": "17-05-2026",
-          "date_display": "17 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1O2Tpa0hsbuFWO7P7dNL_VpsPrqBRuo_9/view?usp=sharing",
-          "drive_id": "1O2Tpa0hsbuFWO7P7dNL_VpsPrqBRuo_9"
-        },
-        {
-          "date": "17-04-2026",
-          "date_display": "17 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1TJ2qoZ9fQT4UcpNJnnLC6P9VeV-1ojDS/view?usp=sharing",
-          "drive_id": "1TJ2qoZ9fQT4UcpNJnnLC6P9VeV-1ojDS"
-        },
-        {
-          "date": "17-04-2026",
-          "date_display": "17 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1RxiBvhAsaVhf_lHSkVWvn88duwZt3pGU/view?usp=sharing",
-          "drive_id": "1RxiBvhAsaVhf_lHSkVWvn88duwZt3pGU"
-        },
-        {
-          "date": "16-07-2026",
-          "date_display": "16 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1lrsTetN_bSevx55IeJovpUQ40E1P_GkY/view?usp=sharing",
-          "drive_id": "1lrsTetN_bSevx55IeJovpUQ40E1P_GkY"
-        },
-        {
-          "date": "16-07-2026",
-          "date_display": "16 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/16yQcDzJOVpz8VTLIuysQhqVzLDPW3l6N/view?usp=sharing",
-          "drive_id": "16yQcDzJOVpz8VTLIuysQhqVzLDPW3l6N"
-        },
-        {
-          "date": "16-06-2026",
-          "date_display": "16 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1Bkz9e5WoRzG8vGZHGbNhb0ski_a98m1x/view?usp=sharing",
-          "drive_id": "1Bkz9e5WoRzG8vGZHGbNhb0ski_a98m1x"
-        },
-        {
-          "date": "16-05-2026",
-          "date_display": "16 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1-KsDyYMKqLXDdG6Bp_tiZBV0Zu39J3cR/view?usp=sharing",
-          "drive_id": "1-KsDyYMKqLXDdG6Bp_tiZBV0Zu39J3cR"
-        },
-        {
-          "date": "16-05-2026",
-          "date_display": "16 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1C5EiYNSr3qjemDXHpIOhV0N6I6r-RM-k/view?usp=sharing",
-          "drive_id": "1C5EiYNSr3qjemDXHpIOhV0N6I6r-RM-k"
-        },
-        {
-          "date": "16-04-2026",
-          "date_display": "16 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1LJF1GI3Wn8uluvzMuPO3noGllR_7-vuG/view?usp=sharing",
-          "drive_id": "1LJF1GI3Wn8uluvzMuPO3noGllR_7-vuG"
-        },
-        {
-          "date": "16-04-2026",
-          "date_display": "16 Apr 2026",
-          "drive_url": "https://drive.google.com/file/d/1JVfxAIFBJKVmtXoGJthPXkE4x0lp1Agw/view?usp=sharing",
-          "drive_id": "1JVfxAIFBJKVmtXoGJthPXkE4x0lp1Agw"
-        },
-        {
-          "date": "15-07-2026",
-          "date_display": "15 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1qMq-3cx8Y8cEFULs1Urb-pxrB6HK7J0b/view?usp=sharing",
-          "drive_id": "1qMq-3cx8Y8cEFULs1Urb-pxrB6HK7J0b"
-        },
-        {
-          "date": "15-07-2026",
-          "date_display": "15 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1aQwbVm9UODM25IlPR8yvFzThRj0fLRHf/view?usp=sharing",
-          "drive_id": "1aQwbVm9UODM25IlPR8yvFzThRj0fLRHf"
-        },
-        {
-          "date": "15-06-2026",
-          "date_display": "15 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1wUtMy2jVtgAUq9sMYmT7V-Zx2Lm27hQW/view?usp=sharing",
-          "drive_id": "1wUtMy2jVtgAUq9sMYmT7V-Zx2Lm27hQW"
-        },
-        {
-          "date": "15-06-2026",
-          "date_display": "15 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1QTA4kuHV2Q71g3iDoGC-gbphHEYhVq69/view?usp=sharing",
-          "drive_id": "1QTA4kuHV2Q71g3iDoGC-gbphHEYhVq69"
-        },
-        {
-          "date": "15-05-2026",
-          "date_display": "15 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1-o-Rk8qLHEFEsn2EmsMw1SamVQP8Veb0/view?usp=sharing",
-          "drive_id": "1-o-Rk8qLHEFEsn2EmsMw1SamVQP8Veb0"
-        },
-        {
-          "date": "15-05-2026",
-          "date_display": "15 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1wFzpWCNicfz316i3o5sbodLH352O_eEs/view?usp=sharing",
-          "drive_id": "1wFzpWCNicfz316i3o5sbodLH352O_eEs"
-        },
-        {
-          "date": "14-08-2026",
-          "date_display": "14 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1Qh-Y7_3j9--qm_XONI6EAX07-PQTrO7W/view?usp=sharing",
-          "drive_id": "1Qh-Y7_3j9--qm_XONI6EAX07-PQTrO7W"
-        },
-        {
-          "date": "14-08-2026",
-          "date_display": "14 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/13MxoQ97EJf1VLB_is_ZMA46Oq5j_ygZz/view?usp=sharing",
-          "drive_id": "13MxoQ97EJf1VLB_is_ZMA46Oq5j_ygZz"
-        },
-        {
-          "date": "14-07-2026",
-          "date_display": "14 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1q8hjT7rM8FMm3RtNYo_g7UTFbWDukgbf/view?usp=sharing",
-          "drive_id": "1q8hjT7rM8FMm3RtNYo_g7UTFbWDukgbf"
-        },
-        {
-          "date": "14-07-2026",
-          "date_display": "14 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1K2RdGJyyk3lCX0FN8CF1CZALPQe3d_Sd/view?usp=sharing",
-          "drive_id": "1K2RdGJyyk3lCX0FN8CF1CZALPQe3d_Sd"
-        },
-        {
-          "date": "14-05-2026",
-          "date_display": "14 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1PkISKa7PV-yaWndF9u9s-uUE5CpPjb5L/view?usp=sharing",
-          "drive_id": "1PkISKa7PV-yaWndF9u9s-uUE5CpPjb5L"
-        },
-        {
-          "date": "14-05-2026",
-          "date_display": "14 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1g799nvVVwDhTE-AC2V4lz3JKnfClPQdS/view?usp=sharing",
-          "drive_id": "1g799nvVVwDhTE-AC2V4lz3JKnfClPQdS"
-        },
-        {
-          "date": "13-08-2026",
-          "date_display": "13 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/17UbT4gXW_G5v24YB6SrsP_p99pYnLBZl/view?usp=sharing",
-          "drive_id": "17UbT4gXW_G5v24YB6SrsP_p99pYnLBZl"
-        },
-        {
-          "date": "13-08-2026",
-          "date_display": "13 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1X3l40Pb8QmyDz1AnkwyemxQbTk6XAMuy/view?usp=sharing",
-          "drive_id": "1X3l40Pb8QmyDz1AnkwyemxQbTk6XAMuy"
-        },
-        {
-          "date": "13-07-2026",
-          "date_display": "13 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1tOLJep3UM16XJjs4CuO2kkrtJKEOMdP_/view?usp=sharing",
-          "drive_id": "1tOLJep3UM16XJjs4CuO2kkrtJKEOMdP_"
-        },
-        {
-          "date": "13-07-2026",
-          "date_display": "13 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1s668gpk2L8uXgcu1KQ1pfDdO6NA3UZxb/view?usp=sharing",
-          "drive_id": "1s668gpk2L8uXgcu1KQ1pfDdO6NA3UZxb"
-        },
-        {
-          "date": "13-06-2026",
-          "date_display": "13 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/13h5FouqXl0gHQPJq9AHNY8GzcfNmmRu4/view?usp=sharing",
-          "drive_id": "13h5FouqXl0gHQPJq9AHNY8GzcfNmmRu4"
-        },
-        {
-          "date": "13-06-2026",
-          "date_display": "13 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1XmLMYXosB0KTLTMkEBhwRf52IyigHB9k/view?usp=sharing",
-          "drive_id": "1XmLMYXosB0KTLTMkEBhwRf52IyigHB9k"
-        },
-        {
-          "date": "13-05-2026",
-          "date_display": "13 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Wo8cLtOjA9t5aq90NF4p8Kar2NadOwX0/view?usp=sharing",
-          "drive_id": "1Wo8cLtOjA9t5aq90NF4p8Kar2NadOwX0"
-        },
-        {
-          "date": "13-05-2026",
-          "date_display": "13 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1w7UHCJ5TqjV3i8iOq1KdWKZWlKhQ51uo/view?usp=sharing",
-          "drive_id": "1w7UHCJ5TqjV3i8iOq1KdWKZWlKhQ51uo"
-        },
-        {
-          "date": "12-08-2026",
-          "date_display": "12 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1bQBwu-CCH0Kbq933cdJbjdv3lRgPOE6D/view?usp=sharing",
-          "drive_id": "1bQBwu-CCH0Kbq933cdJbjdv3lRgPOE6D"
-        },
-        {
-          "date": "12-06-2026",
-          "date_display": "12 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1IufztsYmO7EtXlUvBRNwNdstOuXrFR5p/view?usp=sharing",
-          "drive_id": "1IufztsYmO7EtXlUvBRNwNdstOuXrFR5p"
-        },
-        {
-          "date": "12-06-2026",
-          "date_display": "12 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1VQC6Aad4omaCge-a470Q6-vy-tgHLN5X/view?usp=sharing",
-          "drive_id": "1VQC6Aad4omaCge-a470Q6-vy-tgHLN5X"
-        },
-        {
-          "date": "12-05-2026",
-          "date_display": "12 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1SVluP2AuknsVs8o5JNUxqRrL1CQs87We/view?usp=sharing",
-          "drive_id": "1SVluP2AuknsVs8o5JNUxqRrL1CQs87We"
-        },
-        {
-          "date": "12-05-2026",
-          "date_display": "12 May 2026",
-          "drive_url": "https://drive.google.com/file/d/14XlPxABGfnxyPMnyCLJR3AArd5MQ_JYt/view?usp=sharing",
-          "drive_id": "14XlPxABGfnxyPMnyCLJR3AArd5MQ_JYt"
-        },
-        {
-          "date": "11-08-2026",
-          "date_display": "11 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1wc0DD-Eu68rczj2XDsk1Y8UeeTU3NprJ/view?usp=sharing",
-          "drive_id": "1wc0DD-Eu68rczj2XDsk1Y8UeeTU3NprJ"
-        },
-        {
-          "date": "11-08-2026",
-          "date_display": "11 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1pis56mWJ2QbxPbWhtofJYx4fHu1LGfEv/view?usp=sharing",
-          "drive_id": "1pis56mWJ2QbxPbWhtofJYx4fHu1LGfEv"
-        },
-        {
-          "date": "11-07-2026",
-          "date_display": "11 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1-ez99VjU8wuAO-9QwmV-12CEgaJx0Vk7/view?usp=sharing",
-          "drive_id": "1-ez99VjU8wuAO-9QwmV-12CEgaJx0Vk7"
-        },
-        {
-          "date": "11-07-2026",
-          "date_display": "11 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1qCwTRZ-SvGKqrvkE74wnpwUikjerAQTC/view?usp=sharing",
-          "drive_id": "1qCwTRZ-SvGKqrvkE74wnpwUikjerAQTC"
-        },
-        {
-          "date": "11-06-2026",
-          "date_display": "11 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1TFV5YhHrTCF3fqRjmmKikGId7ZnWNwkB/view?usp=sharing",
-          "drive_id": "1TFV5YhHrTCF3fqRjmmKikGId7ZnWNwkB"
-        },
-        {
-          "date": "11-06-2026",
-          "date_display": "11 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1qSZUJRbZw4L4U4NtxuMicVV5wq-TTDhf/view?usp=sharing",
-          "drive_id": "1qSZUJRbZw4L4U4NtxuMicVV5wq-TTDhf"
-        },
-        {
-          "date": "11-05-2026",
-          "date_display": "11 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Q51oNff6xsfGZ2Q9GlQjmCkh9-GpWpvO/view?usp=sharing",
-          "drive_id": "1Q51oNff6xsfGZ2Q9GlQjmCkh9-GpWpvO"
-        },
-        {
-          "date": "11-05-2026",
-          "date_display": "11 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1z1vALhWZ_wlccceLEH0wKraiNZ8RSIQq/view?usp=sharing",
-          "drive_id": "1z1vALhWZ_wlccceLEH0wKraiNZ8RSIQq"
-        },
-        {
-          "date": "10-08-2026",
-          "date_display": "10 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1GY0TVrKSQ8NJFn9RMvpSTjAjUUVh-Dw_/view?usp=sharing",
-          "drive_id": "1GY0TVrKSQ8NJFn9RMvpSTjAjUUVh-Dw_"
-        },
-        {
-          "date": "10-08-2026",
-          "date_display": "10 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1zc63KfbGSfZT_5567B1vPYq9LmQ51UdL/view?usp=sharing",
-          "drive_id": "1zc63KfbGSfZT_5567B1vPYq9LmQ51UdL"
-        },
-        {
-          "date": "10-07-2026",
-          "date_display": "10 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1eU_YMcnx4Sewm7XSIWQGUTK9b6ZH1TJw/view?usp=sharing",
-          "drive_id": "1eU_YMcnx4Sewm7XSIWQGUTK9b6ZH1TJw"
-        },
-        {
-          "date": "10-07-2026",
-          "date_display": "10 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/139PNRpQF31y-p5PbyrjFKEP5HGs7oaZI/view?usp=sharing",
-          "drive_id": "139PNRpQF31y-p5PbyrjFKEP5HGs7oaZI"
-        },
-        {
-          "date": "10-06-2026",
-          "date_display": "10 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1rOkY_0yhmPT5R8HGtxq2SWdbEXUFmGKM/view?usp=sharing",
-          "drive_id": "1rOkY_0yhmPT5R8HGtxq2SWdbEXUFmGKM"
-        },
-        {
-          "date": "10-06-2026",
-          "date_display": "10 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1iK7EXL07VZ52wqEkr_8VQUJGzkD8W41o/view?usp=sharing",
-          "drive_id": "1iK7EXL07VZ52wqEkr_8VQUJGzkD8W41o"
-        },
-        {
-          "date": "10-05-2026",
-          "date_display": "10 May 2026",
-          "drive_url": "https://drive.google.com/file/d/11y31rWGwK5IuT0Jf9O6y4IFWbPq53CKb/view?usp=sharing",
-          "drive_id": "11y31rWGwK5IuT0Jf9O6y4IFWbPq53CKb"
-        },
-        {
-          "date": "10-05-2026",
-          "date_display": "10 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1MVR0QfMY68tsFLW25-DhguS1sCsz9omp/view?usp=sharing",
-          "drive_id": "1MVR0QfMY68tsFLW25-DhguS1sCsz9omp"
-        },
-        {
-          "date": "09-07-2026",
-          "date_display": "09 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1bO7JCSSeZU7QMctHwFj-FG4Wvr1Htflr/view?usp=sharing",
-          "drive_id": "1bO7JCSSeZU7QMctHwFj-FG4Wvr1Htflr"
-        },
-        {
-          "date": "09-07-2026",
-          "date_display": "09 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1FGYCxM8Gsh4DjnNIRzHpB5drTR3Ne7fO/view?usp=sharing",
-          "drive_id": "1FGYCxM8Gsh4DjnNIRzHpB5drTR3Ne7fO"
-        },
-        {
-          "date": "09-06-2026",
-          "date_display": "09 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1swiPjyEFEVhGFPsh4vr9gQpfeXc3XPHl/view?usp=sharing",
-          "drive_id": "1swiPjyEFEVhGFPsh4vr9gQpfeXc3XPHl"
-        },
-        {
-          "date": "09-06-2026",
-          "date_display": "09 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1UU3ePWisdU0uLRqGrb0jTBTVjDpmE-PJ/view?usp=sharing",
-          "drive_id": "1UU3ePWisdU0uLRqGrb0jTBTVjDpmE-PJ"
-        },
-        {
-          "date": "09-05-2026",
-          "date_display": "09 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1PZXVW30835jEMnmYrllMH_yOLI1LSMAa/view?usp=sharing",
-          "drive_id": "1PZXVW30835jEMnmYrllMH_yOLI1LSMAa"
-        },
-        {
-          "date": "09-05-2026",
-          "date_display": "09 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1s1JwcoRTUgY6JwXSXfVV1joUWPxJP94b/view?usp=sharing",
-          "drive_id": "1s1JwcoRTUgY6JwXSXfVV1joUWPxJP94b"
-        },
-        {
-          "date": "08-08-2026",
-          "date_display": "08 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1s2UHsnbc9S5QWumYNJlhTWO1U-YssvAG/view?usp=sharing",
-          "drive_id": "1s2UHsnbc9S5QWumYNJlhTWO1U-YssvAG"
-        },
-        {
-          "date": "08-08-2026",
-          "date_display": "08 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1iO8ZbxsR_HD_UOwujRZU2T4KddTYYJk_/view?usp=sharing",
-          "drive_id": "1iO8ZbxsR_HD_UOwujRZU2T4KddTYYJk_"
-        },
-        {
-          "date": "08-07-2026",
-          "date_display": "08 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1ZwxQCEN8bsN3sKeBF9DuBZZF05P76Zk3/view?usp=sharing",
-          "drive_id": "1ZwxQCEN8bsN3sKeBF9DuBZZF05P76Zk3"
-        },
-        {
-          "date": "08-07-2026",
-          "date_display": "08 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1fIah5hQdwxYcWYbhNDQdL0JRy20ZfVn0/view?usp=sharing",
-          "drive_id": "1fIah5hQdwxYcWYbhNDQdL0JRy20ZfVn0"
-        },
-        {
-          "date": "08-06-2026",
-          "date_display": "08 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1CWbclaVVn9whL7MbgyqLs6Y8_CcIJ2AW/view?usp=sharing",
-          "drive_id": "1CWbclaVVn9whL7MbgyqLs6Y8_CcIJ2AW"
-        },
-        {
-          "date": "08-06-2026",
-          "date_display": "08 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1w5II3sOobP33gw5cGAjwJTkkBBxdvxzc/view?usp=sharing",
-          "drive_id": "1w5II3sOobP33gw5cGAjwJTkkBBxdvxzc"
-        },
-        {
-          "date": "08-05-2026",
-          "date_display": "08 May 2026",
-          "drive_url": "https://drive.google.com/file/d/12hGk6pePoxVI48UmuWzYT_t1j89CEcYK/view?usp=sharing",
-          "drive_id": "12hGk6pePoxVI48UmuWzYT_t1j89CEcYK"
-        },
-        {
-          "date": "08-05-2026",
-          "date_display": "08 May 2026",
-          "drive_url": "https://drive.google.com/file/d/16JSsPzkOTQZAjmhySgqkWOAzybJNOMbS/view?usp=sharing",
-          "drive_id": "16JSsPzkOTQZAjmhySgqkWOAzybJNOMbS"
-        },
-        {
-          "date": "07-08-2026",
-          "date_display": "07 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1d5LYV44jtlxejMn706W-LAWhIU0b6qeT/view?usp=sharing",
-          "drive_id": "1d5LYV44jtlxejMn706W-LAWhIU0b6qeT"
-        },
-        {
-          "date": "07-08-2026",
-          "date_display": "07 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1rnqzDyvpZjj_FecVVu1zdYtQ3uPLiFmi/view?usp=sharing",
-          "drive_id": "1rnqzDyvpZjj_FecVVu1zdYtQ3uPLiFmi"
-        },
-        {
-          "date": "07-07-2026",
-          "date_display": "07 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/12d4xyAZ9pmh2DZsxHgkOFM5UpJKhtTPY/view?usp=sharing",
-          "drive_id": "12d4xyAZ9pmh2DZsxHgkOFM5UpJKhtTPY"
-        },
-        {
-          "date": "07-07-2026",
-          "date_display": "07 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1QKtq5nlXh-ImTI8uN93pFUok6R0RTKgt/view?usp=sharing",
-          "drive_id": "1QKtq5nlXh-ImTI8uN93pFUok6R0RTKgt"
-        },
-        {
-          "date": "07-06-2026",
-          "date_display": "07 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1cCh53_WCeb7JKG3woaqoas4uKyEy_AKc/view?usp=sharing",
-          "drive_id": "1cCh53_WCeb7JKG3woaqoas4uKyEy_AKc"
-        },
-        {
-          "date": "07-06-2026",
-          "date_display": "07 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1_9pJfatsDJwebwHpw9_UjJTBq0n6pq9H/view?usp=sharing",
-          "drive_id": "1_9pJfatsDJwebwHpw9_UjJTBq0n6pq9H"
-        },
-        {
-          "date": "07-05-2026",
-          "date_display": "07 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1LMmnYDPenW-k0SPGvELkhy2q9vwOKjer/view?usp=sharing",
-          "drive_id": "1LMmnYDPenW-k0SPGvELkhy2q9vwOKjer"
-        },
-        {
-          "date": "07-05-2026",
-          "date_display": "07 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1PZddxIiLVkYQ1j2gnvXQ4AmwvCVtzbNF/view?usp=sharing",
-          "drive_id": "1PZddxIiLVkYQ1j2gnvXQ4AmwvCVtzbNF"
-        },
-        {
-          "date": "06-08-2026",
-          "date_display": "06 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1rT7Q19anyGdvsKGSxs6IaQPNOhW7jERe/view?usp=sharing",
-          "drive_id": "1rT7Q19anyGdvsKGSxs6IaQPNOhW7jERe"
-        },
-        {
-          "date": "06-07-2026",
-          "date_display": "06 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1HV8_7QPTiT1dwXC4WIORIpEDjWWqElhh/view?usp=sharing",
-          "drive_id": "1HV8_7QPTiT1dwXC4WIORIpEDjWWqElhh"
-        },
-        {
-          "date": "06-07-2026",
-          "date_display": "06 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/18XdDkesVZD8LwGCzC20btxyfga7KQTYa/view?usp=sharing",
-          "drive_id": "18XdDkesVZD8LwGCzC20btxyfga7KQTYa"
-        },
-        {
-          "date": "06-06-2026",
-          "date_display": "06 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1c1i514T08JmvFp4gaAfsmSYeaWc7uxiU/view?usp=sharing",
-          "drive_id": "1c1i514T08JmvFp4gaAfsmSYeaWc7uxiU"
-        },
-        {
-          "date": "06-06-2026",
-          "date_display": "06 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1n9SgTVUw2yPz7GMIOebeinsYca9Jucw3/view?usp=sharing",
-          "drive_id": "1n9SgTVUw2yPz7GMIOebeinsYca9Jucw3"
-        },
-        {
-          "date": "06-05-2026",
-          "date_display": "06 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1gYuHtfUJGqfPUmzYClHzDuOSBuuu3-xM/view?usp=sharing",
-          "drive_id": "1gYuHtfUJGqfPUmzYClHzDuOSBuuu3-xM"
-        },
-        {
-          "date": "06-05-2026",
-          "date_display": "06 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1asdRB5E-llcpj3LZMHJfd67isNXZAHKI/view?usp=sharing",
-          "drive_id": "1asdRB5E-llcpj3LZMHJfd67isNXZAHKI"
-        },
-        {
-          "date": "05-08-2026",
-          "date_display": "05 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1c3TUdXtMgUJdF_7UWgByOIRIsxHJhQq3/view?usp=sharing",
-          "drive_id": "1c3TUdXtMgUJdF_7UWgByOIRIsxHJhQq3"
-        },
-        {
-          "date": "05-07-2026",
-          "date_display": "05 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1Kq2hjhSO_MLiPgj5QJTyTcaLonw-81Jv/view?usp=sharing",
-          "drive_id": "1Kq2hjhSO_MLiPgj5QJTyTcaLonw-81Jv"
-        },
-        {
-          "date": "05-07-2026",
-          "date_display": "05 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1B03CamI0j2U9qCHCHYyhWLw9feiZ_x6U/view?usp=sharing",
-          "drive_id": "1B03CamI0j2U9qCHCHYyhWLw9feiZ_x6U"
-        },
-        {
-          "date": "05-06-2026",
-          "date_display": "05 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1D55_f1zKxbqDsZoXz_cmhIanzMHrO9fH/view?usp=sharing",
-          "drive_id": "1D55_f1zKxbqDsZoXz_cmhIanzMHrO9fH"
-        },
-        {
-          "date": "05-06-2026",
-          "date_display": "05 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1bxH8lXXgEtmuavrLQCkdhMHYLMqagHj-/view?usp=sharing",
-          "drive_id": "1bxH8lXXgEtmuavrLQCkdhMHYLMqagHj-"
-        },
-        {
-          "date": "05-05-2026",
-          "date_display": "05 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1iGcIVsgqD6cLx4MQip9qB7dVHxTdXmJh/view?usp=sharing",
-          "drive_id": "1iGcIVsgqD6cLx4MQip9qB7dVHxTdXmJh"
-        },
-        {
-          "date": "05-05-2026",
-          "date_display": "05 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1HYm-Yw01Ujn1fXxHGiWt1tcKWqeKmjVf/view?usp=sharing",
-          "drive_id": "1HYm-Yw01Ujn1fXxHGiWt1tcKWqeKmjVf"
-        },
-        {
-          "date": "04-08-2026",
-          "date_display": "04 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1Ouek9VlhIUOSNguEo9WQ_8x6km5JweED/view?usp=sharing",
-          "drive_id": "1Ouek9VlhIUOSNguEo9WQ_8x6km5JweED"
-        },
-        {
-          "date": "04-08-2026",
-          "date_display": "04 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1dppexd9SCh8QD3fr-2y1RBm4ATzYAQKk/view?usp=sharing",
-          "drive_id": "1dppexd9SCh8QD3fr-2y1RBm4ATzYAQKk"
-        },
-        {
-          "date": "04-07-2026",
-          "date_display": "04 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1w_JyaTk5qzcxMXFdP6r3FjiR5rCD8l4g/view?usp=sharing",
-          "drive_id": "1w_JyaTk5qzcxMXFdP6r3FjiR5rCD8l4g"
-        },
-        {
-          "date": "04-07-2026",
-          "date_display": "04 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1y-v4KCKdr9fBGVHi1GKtY1PLmM4Y0PM0/view?usp=sharing",
-          "drive_id": "1y-v4KCKdr9fBGVHi1GKtY1PLmM4Y0PM0"
-        },
-        {
-          "date": "04-06-2026",
-          "date_display": "04 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/17-Ph84d-KYlHakcm2tZgzIOnAQghlrTR/view?usp=sharing",
-          "drive_id": "17-Ph84d-KYlHakcm2tZgzIOnAQghlrTR"
-        },
-        {
-          "date": "04-06-2026",
-          "date_display": "04 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1-zTpLxRmpCgQkQN8u7Y95fePBIjd-NHx/view?usp=sharing",
-          "drive_id": "1-zTpLxRmpCgQkQN8u7Y95fePBIjd-NHx"
-        },
-        {
-          "date": "04-05-2026",
-          "date_display": "04 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1mTQp0k-qQC-4-kPkBUXAFy8I7L9t--Da/view?usp=sharing",
-          "drive_id": "1mTQp0k-qQC-4-kPkBUXAFy8I7L9t--Da"
-        },
-        {
-          "date": "04-05-2026",
-          "date_display": "04 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1FCnK0_9okq2BShftbU4Djb4X6WbPVshv/view?usp=sharing",
-          "drive_id": "1FCnK0_9okq2BShftbU4Djb4X6WbPVshv"
-        },
-        {
-          "date": "03-08-2026",
-          "date_display": "03 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1YxNljH5Jy6odCBZqpQOyChZsdck8y8Da/view?usp=sharing",
-          "drive_id": "1YxNljH5Jy6odCBZqpQOyChZsdck8y8Da"
-        },
-        {
-          "date": "03-08-2026",
-          "date_display": "03 Aug 2026",
-          "drive_url": "https://drive.google.com/file/d/1HX7ETMwnWcrFGm20U2wP7MZSlcFdzydA/view?usp=sharing",
-          "drive_id": "1HX7ETMwnWcrFGm20U2wP7MZSlcFdzydA"
-        },
-        {
-          "date": "03-07-2026",
-          "date_display": "03 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1yU2Uhkzb2bSUkr05-E3Cw6_iWxgk3z66/view?usp=sharing",
-          "drive_id": "1yU2Uhkzb2bSUkr05-E3Cw6_iWxgk3z66"
-        },
-        {
-          "date": "03-06-2026",
-          "date_display": "03 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1KPydqUUyedPWAK4kTMGGE3bZmkuvwXuH/view?usp=sharing",
-          "drive_id": "1KPydqUUyedPWAK4kTMGGE3bZmkuvwXuH"
-        },
-        {
-          "date": "03-06-2026",
-          "date_display": "03 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1m-QLVvpjp3nB2KzWczpbJJvZSpA5yWt2/view?usp=sharing",
-          "drive_id": "1m-QLVvpjp3nB2KzWczpbJJvZSpA5yWt2"
-        },
-        {
-          "date": "03-05-2026",
-          "date_display": "03 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1VnEH41WIpzkjnu0vAH2Zt7Q2iJ60loSj/view?usp=sharing",
-          "drive_id": "1VnEH41WIpzkjnu0vAH2Zt7Q2iJ60loSj"
-        },
-        {
-          "date": "03-05-2026",
-          "date_display": "03 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1Yuf_d_R880yhRzSu-MmPV4JojGNADMR0/view?usp=sharing",
-          "drive_id": "1Yuf_d_R880yhRzSu-MmPV4JojGNADMR0"
-        },
-        {
-          "date": "02-07-2026",
-          "date_display": "02 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1TLxLneuny0yx_9LBqkERdHCnsmmr_aH3/view?usp=sharing",
-          "drive_id": "1TLxLneuny0yx_9LBqkERdHCnsmmr_aH3"
-        },
-        {
-          "date": "02-07-2026",
-          "date_display": "02 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1A35Ox4YggMIpY50ANGpTJxgPmtB6PIF2/view?usp=sharing",
-          "drive_id": "1A35Ox4YggMIpY50ANGpTJxgPmtB6PIF2"
-        },
-        {
-          "date": "02-06-2026",
-          "date_display": "02 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/198tfxk2ThYuUKdC_iBhVp3CKUXr4dnPU/view?usp=sharing",
-          "drive_id": "198tfxk2ThYuUKdC_iBhVp3CKUXr4dnPU"
-        },
-        {
-          "date": "02-06-2026",
-          "date_display": "02 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1Y-QKkMc6fe8NEuU6OdxuQ93r-wgzKnGO/view?usp=sharing",
-          "drive_id": "1Y-QKkMc6fe8NEuU6OdxuQ93r-wgzKnGO"
-        },
-        {
-          "date": "02-05-2026",
-          "date_display": "02 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1OhpzbScS_7Dcp9rJ1qg87C8C1wt3gN5h/view?usp=sharing",
-          "drive_id": "1OhpzbScS_7Dcp9rJ1qg87C8C1wt3gN5h"
-        },
-        {
-          "date": "02-05-2026",
-          "date_display": "02 May 2026",
-          "drive_url": "https://drive.google.com/file/d/18xARhcDhXubktrxZJMjcR3h78fK6a6Ce/view?usp=sharing",
-          "drive_id": "18xARhcDhXubktrxZJMjcR3h78fK6a6Ce"
-        },
-        {
-          "date": "01-07-2026",
-          "date_display": "01 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1MsoYpdnH_EowkATl2zi-Dm9jDt7zwmIn/view?usp=sharing",
-          "drive_id": "1MsoYpdnH_EowkATl2zi-Dm9jDt7zwmIn"
-        },
-        {
-          "date": "01-07-2026",
-          "date_display": "01 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1NGjA4N9Uu_5jvCwSTGMTTVb4t2RYZ3mH/view?usp=sharing",
-          "drive_id": "1NGjA4N9Uu_5jvCwSTGMTTVb4t2RYZ3mH"
-        },
-        {
-          "date": "01-07-2026",
-          "date_display": "01 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1NL6IbQBCJhNBsNaOLmtp2UOxa5n8Dmal/view?usp=sharing",
-          "drive_id": "1NL6IbQBCJhNBsNaOLmtp2UOxa5n8Dmal"
-        },
-        {
-          "date": "01-07-2026",
-          "date_display": "01 Jul 2026",
-          "drive_url": "https://drive.google.com/file/d/1EUsoKnO6_NzwkDcu1fZ3kJSt3Xx0ToMv/view?usp=sharing",
-          "drive_id": "1EUsoKnO6_NzwkDcu1fZ3kJSt3Xx0ToMv"
-        },
-        {
-          "date": "01-06-2026",
-          "date_display": "01 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1M2Ir3_hrlKC-3dx04g5DUTrDUDqBax7w/view?usp=sharing",
-          "drive_id": "1M2Ir3_hrlKC-3dx04g5DUTrDUDqBax7w"
-        },
-        {
-          "date": "01-06-2026",
-          "date_display": "01 Jun 2026",
-          "drive_url": "https://drive.google.com/file/d/1qhJo-Eioxne7ZlXVioRkTPu5K--n0R6d/view?usp=sharing",
-          "drive_id": "1qhJo-Eioxne7ZlXVioRkTPu5K--n0R6d"
-        },
-        {
-          "date": "01-05-2026",
-          "date_display": "01 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1YaPCmCrqi2aISm7TM1AG1rnpE5TM18bn/view?usp=sharing",
-          "drive_id": "1YaPCmCrqi2aISm7TM1AG1rnpE5TM18bn"
-        },
-        {
-          "date": "01-05-2026",
-          "date_display": "01 May 2026",
-          "drive_url": "https://drive.google.com/file/d/1JRI7-R96_UbVHAq2qJ-J-DuWgLQb8JUr/view?usp=sharing",
-          "drive_id": "1JRI7-R96_UbVHAq2qJ-J-DuWgLQb8JUr"
-        }
-      ]
+      "archive": []
     },
     {
       "name": "Free Press Journal",
       "slug": "free-press-journal",
       "url": "https://dailyepaper.in/the-free-press-journal-epaper-download/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -9539,6 +8321,24 @@
           "drive_id": "19W9bNm0bcmGBw-OybTpBsRnirty0cOHR"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/16pPrS8ABegeJuxHXqTdQrCobBjvHxcf_/view?usp=sharing",
+          "drive_id": "16pPrS8ABegeJuxHXqTdQrCobBjvHxcf_"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/11e6CMNHPy3aI4qVD6bJmCpmQym3uutPO/view?usp=sharing",
+          "drive_id": "11e6CMNHPy3aI4qVD6bJmCpmQym3uutPO"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1GNI6Yccv0N2yK1Y9B8n7GRn-qoo8uecc/view?usp=sharing",
+          "drive_id": "1GNI6Yccv0N2yK1Y9B8n7GRn-qoo8uecc"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1VSaIuu2QrXIK6HPBZC3axCnXWutq13po/view?usp=sharing",
@@ -10529,8 +9329,8 @@
       "slug": "business-standard",
       "url": "https://dailyepaper.in/business-standard-epaper-feb-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -10849,6 +9649,12 @@
           "drive_id": "1yGLqC2K4pBds-1b4WNWvJlSnhs0QdnRR"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1YKWBauur47lgR_7hiEqJ-Z2O7XTr_KV9/view?usp=sharing",
+          "drive_id": "1YKWBauur47lgR_7hiEqJ-Z2O7XTr_KV9"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1wFU_fggW_0sC4uYrvFwgg7Jmq6hs0-TC/view?usp=sharing",
@@ -11155,8 +9961,8 @@
       "slug": "live-mint",
       "url": "https://dailyepaper.in/live-mint-epaper-feb-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -11475,6 +10281,12 @@
           "drive_id": "1ES4sSjYY1vG-cjgCN-UCSHGodmq3N65k"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1H1hMfJBH6jNkuotQB4nrY0P5_aYXXj6T/view?usp=sharing",
+          "drive_id": "1H1hMfJBH6jNkuotQB4nrY0P5_aYXXj6T"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1gCD7LMvIl5DMPzm0_eEUuaFPbh77Yl2X/view?usp=sharing",
@@ -11787,8 +10599,8 @@
       "slug": "hans-india",
       "url": "https://dailyepaper.in/hans-india-epaper-today-pdf-download-feb-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -12143,6 +10955,12 @@
           "drive_id": "1aZsk3kvRL_HfO5_Apn39ufWmeDW1PpIp"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1_N0A2oR0eG-e-HW0rNUHin_H8wNoIXgB/view?usp=sharing",
+          "drive_id": "1_N0A2oR0eG-e-HW0rNUHin_H8wNoIXgB"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1ZM_M3ytv7yOCcFvedAZ55WvE7S1GmFIr/view?usp=sharing",
@@ -12479,8 +11297,8 @@
       "slug": "deccan-herald",
       "url": "https://dailyepaper.in/deccan-herald-epaper-feb-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -12835,6 +11653,12 @@
           "drive_id": "1h_6UtQPLVV6KqlauB2yuhSe4e3kFSYHu"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1Os4fjPvfBz6P_nl3aH-QAmnuaXmOqDNl/view?usp=sharing",
+          "drive_id": "1Os4fjPvfBz6P_nl3aH-QAmnuaXmOqDNl"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1P1rMRD5pPcgDM69HuglF3szH0rdhjHBO/view?usp=sharing",
@@ -13171,8 +11995,8 @@
       "slug": "hindustan-times",
       "url": "https://dailyepaper.in/hindustan-times-epaper-download-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -13527,6 +12351,12 @@
           "drive_id": "16Ef0VWUszkn70chPLyu32yWCi5cGovkf"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1RuZOgivho6xaiJaiboLZLa-zBk9xsKgS/view?usp=sharing",
+          "drive_id": "1RuZOgivho6xaiJaiboLZLa-zBk9xsKgS"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1eFeYiGDOqaUdNo2qUerAP_aOZ1dkqQ1q/view?usp=sharing",
@@ -13863,8 +12693,8 @@
       "slug": "lokmat-times",
       "url": "https://dailyepaper.in/lokmat-times-epaper-download-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -14219,6 +13049,12 @@
           "drive_id": "1F2FWoHh5H6z442kybooi75bHPp4ts3T7"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1GB_JL-y7JbVXAltFHnd_3j9FYY5oUKrp/view?usp=sharing",
+          "drive_id": "1GB_JL-y7JbVXAltFHnd_3j9FYY5oUKrp"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1VIaa-aeHGOCnBHqefX8N09xyZR173JED/view?usp=sharing",
@@ -14519,8 +13355,8 @@
       "slug": "ahmedabad-mirror",
       "url": "https://dailyepaper.in/ahmedabad-mirror-epaper-download-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -14875,6 +13711,12 @@
           "drive_id": "1TMyNPxWxr0rKdnLsGBK_wC4NfNRaNnmb"
         },
         {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/1r0hEBbqB_jx5eLEE7pbG6tBlnXNAJSP1/view?usp=sharing",
+          "drive_id": "1r0hEBbqB_jx5eLEE7pbG6tBlnXNAJSP1"
+        },
+        {
           "date": "15-07-2026",
           "date_display": "15 Jul 2026",
           "drive_url": "https://drive.google.com/file/d/1GMp6Ve18FxaLMkOoYJAuJIRbwTFHS3ir/view?usp=sharing",
@@ -15199,8 +14041,8 @@
       "slug": "telangana-today",
       "url": "https://dailyepaper.in/telangana-today-epaper-download-2026/",
       "latest": {
-        "date": "15-08-2026",
-        "date_display": "15 Aug 2026",
+        "date": "16-08-2026",
+        "date_display": "16 Aug 2026",
         "drive_url": null,
         "drive_id": null,
         "note": "Not available — may be Sunday or holiday"
@@ -15547,6 +14389,12 @@
           "date_display": "16 Apr 2026",
           "drive_url": "https://drive.google.com/file/d/1Uwi0LNqCYPhvo7WTykCR6MkL7K7yd32W/view?usp=sharing",
           "drive_id": "1Uwi0LNqCYPhvo7WTykCR6MkL7K7yd32W"
+        },
+        {
+          "date": "15-08-2026",
+          "date_display": "15 Aug 2026",
+          "drive_url": "https://drive.google.com/file/d/10DcR18R3uiU9nBkQxEaCRqxRrXQaLMTT/view?usp=sharing",
+          "drive_id": "10DcR18R3uiU9nBkQxEaCRqxRrXQaLMTT"
         },
         {
           "date": "15-07-2026",
